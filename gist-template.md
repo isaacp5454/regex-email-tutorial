@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Email Regex Tutorial 
 
-Introductory paragraph (replace this with your text)
+I am going to give a step by step tutorial on how this regex functions.  
 
 ## Summary
 
